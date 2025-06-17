@@ -27,7 +27,7 @@ nsupdate
 > update add test.example.com 300 A 192.0.2.123
 > send
 ```
-
+*
 ---
 
 ## 🧰 Commonly Used Directives
