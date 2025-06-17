@@ -99,7 +99,7 @@ Want to build DDNS update scripts in your browser?
 
 ## 🔗 Useful Links
 
-- [nsupdate man page](https://man7.org/linux/man-pages/man8/nsupdate.8.html)
+- [nsupdate man page](https://linux.die.net/man/8/nsupdate)
 - [Dynamic DNS Generator on SploitHQ](https://sploithq.com/dynamic-dns)
 
 ---
